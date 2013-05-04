@@ -91,3 +91,6 @@ Die geschieht im Wesentlichen in 2 Schritten:
 
 
 Die genaue Funktion und Vorgehensweise kann den Kommentaren im Quellcode entnommen werden.
+
+Die Ausführbare Jar-Datei befindet sich im Verzeichnis: Executable jar. Auch hierfür muss ein
+funktionierendes OpenCV eingerichtet sein.
